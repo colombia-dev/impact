@@ -1,7 +1,12 @@
 <template>
-  <div id="app">
-    <h1>¿Cómo han impactado tu vida las comunidades tecnológicas Colombianas?</h1>
-    <Quote :quote="selected.quote" :name="selected.name" :avatar="selected.avatar" v-if="selected" />
+  <div id="container">
+    <div class="col-dev">
+      <img src="./assets/images/condor.png" class="logo"/>
+    </div>
+    <div id="app">
+      <h1>¿Cómo han impactado tu vida las comunidades tecnológicas Colombianas?</h1>
+      <Quote :quote="selected.quote" :name="selected.name" :avatar="selected.avatar" v-if="selected" />
+    </div>
   </div>
 </template>
 
@@ -38,13 +43,21 @@ export default {
 
 <style lang="scss">
 #app {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-  width: 60%;
+  width: 62%;
   font-size: 22px;
+  margin: 0 20%;
+  color: #824A21;
+}
+.logo {
+  width: 42%;
+  margin-top: 17%;
+}
+.col-dev {
+  margin: 0%;
+  position: absolute;
 }
 </style>
