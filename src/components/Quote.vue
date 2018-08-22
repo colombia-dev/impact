@@ -18,7 +18,7 @@ export default {
   name: 'Quote',
   computed: {
     avatarUrl () {
-      return `https://s.gravatar.com/avatar/${this.avatar}?s=64`
+      return `https://s.gravatar.com/avatar/${this.avatar}?d=https://github.com/colombia-dev/colombia-dev.github.io/raw/master/public/assets/images/simple-logo.png`
     },
     translateUrl () {
       return `https://translate.google.com/?sl=es&tl=en&text=${encodeURIComponent(this.quote)}`
@@ -55,5 +55,9 @@ blockquote p {
 }
 .author {
   font-weight: 600;
+}
+img {
+  max-width: 100px;
+  max-height: 100px;
 }
 </style>
