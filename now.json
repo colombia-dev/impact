@@ -1,0 +1,17 @@
+{
+  "name": "coldev-impact",
+  "type": "static",
+  "static": {
+    "public": "dist",
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  },
+  "alias": "coldev-impact",
+  "files": [
+    "dist"
+  ]
+}
