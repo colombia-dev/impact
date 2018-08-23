@@ -5,7 +5,7 @@
     "avatar": "d41d8cd98f00b204e9800998ecf8427e"
   },
   {
-    "quote": "conocer nueva gente, gente muy tesa,  gente que yo puedo aprender mucho. cada vez que asisto una charla aprendo mas.",
+    "quote": "Conocer nueva gente, gente muy tesa, gente que yo puedo aprender mucho. cada vez que asisto una charla aprendo mas.",
     "name": "Nicolas",
     "avatar": "167458bfe32598339944a2f0b00a4bee"
   },
@@ -45,11 +45,6 @@
     "avatar": "ef7407e8e27c39f91ce28344cab404be"
   },
   {
-    "quote": "Comunidades javascript",
-    "name": "Joan Serna",
-    "avatar": "9a932c6b85ae1ccd28a10e58dfb780f7"
-  },
-  {
     "quote": "Es un lugar donde tengo dudas puedo me las responden... Y ayudo a otros :D",
     "name": "Alejo",
     "avatar": "54eacf5ac8bcc4b1dfb2b5d7ed271b55"
@@ -70,12 +65,12 @@
     "avatar": "dd954ff13ceb8aa966988dab7ec6f9eb"
   },
   {
-    "quote": "( Python Barranquilla  )Te sientes respaldado por una comunidad que parece un familia, con el único propósito de ser cada día mejor.",
+    "quote": "Te sientes respaldado por una comunidad que parece un familia, con el único propósito de ser cada día mejor.",
     "name": "Jose Guzman",
     "avatar": "0cdb9f984c45b601e2512332893c615c"
   },
   {
-    "quote": "Me ayudo a mejorar mis skills, conocer demasiadas personas, evolucionar e impulsar mi carrera, crear y mejorar comunidaded, conseguir trabajos y contactos profesionales y ayudar a demas personas a que logren iguales o mejores cosas que las que yo he logrado",
+    "quote": "Me ayudó a mejorar mis skills, conocer demasiadas personas, evolucionar e impulsar mi carrera, crear y mejorar comunidaded, conseguir trabajos y contactos profesionales y ayudar a demas personas a que logren iguales o mejores cosas que las que yo he logrado",
     "name": "Simon Escobar Benitez",
     "avatar": "cbc747d6f9cf2550dbb66e1ba71ae7fd"
   },
@@ -155,17 +150,12 @@
     "avatar": "d3acdfcb95f71eec89930d4980bd7845"
   },
   {
-    "quote": "hackdó",
-    "name": "Edwin Alberto Ayala Palomeque",
-    "avatar": "b6107c656e0ba474e16ab8ae8c91e6fb"
-  },
-  {
     "quote": "Me han dado la oportunidad de aprender y crecer como por persona y en el aspecto profesional.",
     "name": "Esneyder Palacios",
     "avatar": "a75c1e0d9698c6c7a46582b6f934d38e"
   },
   {
-    "quote": "TL:DR; Pasé de ganar 500 a 3000 USD/ mo en menos de 2 años. Y en aumento.\n\nInvolucrarme activamente con la comunidad de PereiraJS y llegar a ser su organizador, dictar charlas, workshops y demás, me permitió no sólo conocer muchas personas sino aprender y afianzar mi conocimiento para incrementar el valor de lo que hago.",
+    "quote": "TL:DR; Pasé de ganar 500 a [REDACTED] USD/mo en menos de 2 años. Y en aumento.\n\nInvolucrarme activamente con la comunidad de PereiraJS y llegar a ser su organizador, dictar charlas, workshops y demás, me permitió no sólo conocer muchas personas sino aprender y afianzar mi conocimiento para incrementar el valor de lo que hago.",
     "name": "Jonathan Alvarez Gonzalez",
     "avatar": "90f664da8e3df590f9a4318443b2ee3d"
   },
@@ -203,11 +193,6 @@
     "quote": "En un contexto social como Colombia, una comunidad es una gran oportunidad para quienes tienen o piensan que tienen opciones limitadas en su vida y carrera profesional. Es por eso que amo las comunidades, puede cambiar vidas. No sólo enseñandote cosas técnicas si no también empoderandote a seguir mejorando el mundo individualmente y en sociedad. PionerasDev sin duda a marcado mi vida de la manera más positiva y sin todos los esfuerzos conjuntos de muchas personas como Julian y Buritica el cuento hubiese sido diferente",
     "name": "Laura Ciro",
     "avatar": "38b5566a248fada103c46b8d31c8da4e"
-  },
-  {
-    "quote": "Medellin Android",
-    "name": "Cristian Gomez",
-    "avatar": "13b45658e70871cdf1981946efc6696a"
   },
   {
     "quote": "Soy Colombiana pero vivo en Chile. Este año en la ngconf USA conoci a personas de la comunidad angular medellin, y gracias a eso estare participando en la ngColombia con una charla. He generado buenas redes gracias a su comunidad.",
