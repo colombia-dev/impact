@@ -49,7 +49,7 @@ export default {
   text-align: center;
   width: 62%;
   font-size: 22px;
-  margin: 0 20%;
+  margin: 0 21%;
   color: #824A21;
 }
 .logo {
