@@ -1,11 +1,12 @@
 <template>
-  <figure class="snip1359">
-  <figcaption><img :src="avatarUrl" class="profile"/>
-    <blockquote>{{quote}}</blockquote>
-     <a :href="translateUrl" target="_new">Translate</a>
-  </figcaption>
-  <h3>{{name}}</h3>
-</figure>
+  <figure class="quote-card">
+    <figcaption>
+      <img :src="avatarUrl" class="profile"/>
+      <blockquote>{{quote}}</blockquote>
+      <a :href="translateUrl" target="_new">Translate</a>
+    </figcaption>
+    <h3>{{name}}</h3>
+  </figure>
 </template>
 
 <script>
@@ -31,7 +32,7 @@ export default {
 <style scoped lang="scss">
 @import url(https://fonts.googleapis.com/css?family=Roboto:300,400);
 @import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css);
-.snip1359 {
+.quote-card {
   font-family: sans-serif;
   position: relative;
   float: left;
@@ -47,22 +48,22 @@ export default {
   padding-top: 120px;
   border-radius: 16px;
 }
-.snip1359 * {
+.quote-card * {
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
 }
-.snip1359 img {
+.quote-card img {
   max-width: 100%;
   vertical-align: top;
   opacity: 0.85;
 }
-.snip1359 figcaption {
+.quote-card figcaption {
   width: 100%;
   background-color: #350f0f;
   padding: 25px;
   position: relative;
 }
-.snip1359 figcaption:before {
+.quote-card figcaption:before {
   position: absolute;
   content: '';
   bottom: 100%;
@@ -73,7 +74,7 @@ export default {
   border-width: 55px 0 0 400px;
   border-color: transparent transparent transparent #00000061;
 }
-.snip1359 .profile {
+.quote-card .profile {
   border-radius: 50%;
   position: absolute;
   bottom: 100%;
@@ -83,7 +84,7 @@ export default {
   opacity: 1;
   box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
 }
-.snip1359 h3 {
+.quote-card h3 {
   font-size: 1.3em;
   margin: 25px;
   font-weight: 300;
@@ -94,12 +95,12 @@ export default {
   color: #fff;
   font-weight: 900;
 }
-.snip1359 h3 span {
+.quote-card h3 span {
   display: block;
   font-size: 0.65em;
   color: #2980b9;
 }
-.snip1359 blockquote {
+.quote-card blockquote {
   margin: 0 0 10px;
   padding: 0 0 30px;
   letter-spacing: 1px;
@@ -107,7 +108,7 @@ export default {
   font-style: italic;
   font-weight: 300;
 }
-.snip1359 blockquote:after {
+.quote-card blockquote:after {
   font-family: 'FontAwesome';
   content: "\201C";
   position: absolute;
