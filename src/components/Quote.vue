@@ -36,7 +36,7 @@ export default {
   position: relative;
   float: left;
   overflow: hidden;
-  margin: 10px 7%;
+  margin: 10px 6%;
   min-width: 230px;
   max-width: 920px;
   width: 100%;
